@@ -1,13 +1,13 @@
 <header class="block relative z-10 min-h-70">
-    <div class="md:container sm:container sm:mx-auto md:mx-auto">
+    <div class="w-10/12 mx-auto">
       
         <nav class="bg-white border-gray-200 dark:bg-gray-900">
-            <div class="max-w-screen-xl flex flex-wrap lg:flex-nowrap items-center justify-between mx-auto py-4">
+            <div class="max-w-screen-xl flex lg:flex-nowrap items-center justify-between mx-auto py-4 sm:flex-nowrap xs:flex-nowrap">
                 <a href="#" class="flex items-center">
                     <img src="https://flowbite.com/docs/images/logo.svg" class="h-8 mr-3" alt="Flowbite Logo" />
-                    <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">The Portables</span>
+                    <span class="md:hidden self-center text-2xl font-semibold whitespace-nowrap dark:text-white">The Portables</span>
                 </a>
-                <div class="flex md:order-2 w-full items-center md:w-20 md:items-end md:justify-end">
+                <div class="flex md:order-2 w-full items-center md:w-20 justify-end">
                     <button type="button" data-collapse-toggle="navbar-search" aria-controls="navbar-search" aria-expanded="false" class="md:hidden text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 rounded-lg text-sm p-2.5 mr-1" >
                         <svg class="w-5 h-5" aria-hidden="true" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clip-rule="evenodd"></path></svg>
                         <span class="sr-only">Search</span>

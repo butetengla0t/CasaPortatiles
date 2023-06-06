@@ -5,11 +5,11 @@
         @include('header.header')
         <div class="bg-gray-200 py-5 mb-4 w-full">
 
-            <div class="2xl:mx-auto w-full sm:max-w-screen-xl 2xl:flex 2xl:flex-row md:flex-col sm:flex-col 2xl:gap-8 sm:gap-8">
+            <div class="w-10/12 mx-auto sm:flex sm:flex-row sm:gap-8 md:flex-col md:w-full">
             
-                <div class="2xl:w-3/4 sm:w-fullmax-w-full flex flex-col">
+                <div class="sm:w-3/4 md:mx-auto md:w-10/12">
                 
-                    <div class="md:container sm:container sm:mx-auto md:mx-auto">
+                    <div class="w-full">
                         <div class="mx-auto w-full max-w-screen-xl">
                             <div class="bg-white text-black border-1 flex items-center justify-between px-6 py-4 rounded-md border-l-8 border-l-green-800 border-gray-500">
                                 <h1 class="text-lg">Windows</h1>
@@ -98,8 +98,8 @@
                     </div>
 
                     <!-- SIDE -->
-                    <div class="2xl:w-1/4 md:w-full sm:w-full max-w-full mt-5 lg:mt-0">
-                        <div class="md:container sm:container sm:mx-auto md:mx-auto">
+                    <div class="sm:w-1/4 mt-5 sm:mt-0 md:w-10/12 md:mx-auto">
+                        <div class="w-full">
                         <div class="rounded-xl bg-white">
                                 <div class="flex items-start gap-4 p-4 sm:p-6 lg:p-8">
                                     <!-- <a href="#" class="block shrink-0">
@@ -111,7 +111,7 @@
                                     </a> -->
 
                                     <div>
-                                        <h3 class="font-medium sm:text-lg">
+                                        <h3 class="font-medium sm:text-md">
                                             <a href="#" class="hover:underline">
                                             Question about Livewire Rendering and Alpine JS
                                             </a>
