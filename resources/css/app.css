@@ -8,6 +8,18 @@
 
 
 @tailwind components;
+
+@layer componets {
+  .starRatings {
+    font-size: 16px;
+    background-color: #ffc101;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    max-width: max-content;
+    position: relative;
+  }
+}
 @tailwind utilities;
 
 
