@@ -21,7 +21,7 @@
                                         <a href="#" class="block shrink-0 p-3">
                                             <img
                                                 alt="Photoshop"
-                                                src="./images/Adobe-Photoshop-2023.png"
+                                                src="./images/photoshop-2023.png"
                                                 class="h-full w-full rounded-tl-lg rounded-bl-lg max-w-full object-contain md:object-scale-down"
                                             />
                                         </a>
@@ -183,7 +183,7 @@
                                             <a href="#" class="block shrink-0 p-3">
                                                 <img
                                                     alt="Photoshop"
-                                                    src="./images/Adobe-Photoshop-2023.png"
+                                                    src="./images/photoshop-2023.png"
                                                     class="h-full w-full rounded-tl-lg rounded-bl-lg max-w-full object-contain md:object-scale-down"
                                                 />
                                             </a>
@@ -344,7 +344,7 @@
                                             <a href="#" class="block shrink-0 p-3">
                                                 <img
                                                     alt="Photoshop"
-                                                    src="./images/Adobe-Photoshop-2023.png"
+                                                    src="./images/photoshop-2023.png"
                                                     class="h-full w-full rounded-tl-lg rounded-bl-lg max-w-full object-contain md:object-scale-down"
                                                 />
                                             </a>
@@ -499,22 +499,11 @@
                         <!-- SIDE -->
                         <div class="sm:w-full mt-5 sm:mt-0 md:w-10/12 md:mx-auto lg:w-1/4">
                             <div class="w-full">
-                                <!-- <div class="rounded-xl bg-white">
-                                    <div class="flex items-start sm:p-4">
-                                        <a href="#" class="block shrink-0">
-                                            <img
-                                                alt="Speaker"
-                                                src="./images/ads1.png"
-                                                class="h-auto w-full rounded-lg max-w-full object-contain md:object-scale-down"
-                                            />
-                                        </a>
-                                    <div>
-                                </div> -->
-                                <div class="flex items-center w-full">
+                                <div class="flex items-center w-full justify-center">
                                     <a href="#" class="block shrink-0">
                                         <img
-                                            alt="Speaker"
-                                            src="./images/ads/ads1.png"
+                                            alt="Add Banner"
+                                            src="./images/ads/ads123456.png"
                                             class="h-auto w-full rounded-lg max-w-full object-contain md:object-scale-down"
                                         />
                                     </a>
