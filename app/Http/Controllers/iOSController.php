@@ -6,5 +6,7 @@ use Illuminate\Http\Request;
 
 class iOSController extends Controller
 {
-    //
+    public function index() {
+        return view('ios.ios');
+    }
 }

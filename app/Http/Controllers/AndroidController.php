@@ -6,5 +6,7 @@ use Illuminate\Http\Request;
 
 class AndroidController extends Controller
 {
-    //
+    public function index() {
+        return view('android.android');
+    }
 }
